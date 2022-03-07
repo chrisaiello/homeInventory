@@ -1,6 +1,6 @@
-things.egg-info
+things.egg-info/
 .DS_STORE
-.idea
-.vscode
+.idea/
+.vscode/
 .gitignore
-.Pipfile.lock
+Pipfile.lock
