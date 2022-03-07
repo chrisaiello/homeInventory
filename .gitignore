@@ -1,4 +1,6 @@
 things.egg-info
-boostrap.sh
 .DS_STORE
-
+.idea
+.vscode
+.gitignore
+.Pipfile.lock
